@@ -22,7 +22,7 @@ function moviesApi(app) {
       // throw new Error('Error getting movies');
       res.status(200).json({
         data: movies,
-        message: 'movie listed',
+        message: 'movies listed',
       });
     } catch (err) {
       next(err);
