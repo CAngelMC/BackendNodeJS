@@ -93,7 +93,7 @@ const moviesMock = [
     duration: 173,
     contentRating: 'R',
     source: 'https://nih.gov/erat/quisque/erat/eros.jpg',
-    tags: ['Action|Drama', 'Comedy']
+    tags: ['Drama', 'Comedy']
   },
   {
     id: 'e9093aaa-daf2-4e32-aa6b-c3d79d0d9120',
